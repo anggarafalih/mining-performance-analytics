@@ -1,0 +1,21 @@
+equipment_code,equipment_type,project_code,model,capacity,capacity_unit
+EX01,Excavator,P01,Komatsu PC2000-8,12.0,m3
+EX02,Excavator,P01,Hitachi EX2600-6,17.0,m3
+DT01,Dump Truck,P01,Komatsu HD785-7,91.0,ton
+DT02,Dump Truck,P01,Komatsu HD785-7,91.0,ton
+DZ01,Dozer,P01,Komatsu D375A-6,18.5,m3
+EX03,Excavator,P02,Komatsu PC2000-8,12.0,m3
+EX04,Excavator,P02,Hitachi EX2600-6,17.0,m3
+DT03,Dump Truck,P02,Komatsu HD785-7,91.0,ton
+DT04,Dump Truck,P02,Komatsu HD785-7,91.0,ton
+DT05,Dump Truck,P02,CAT 777E,95.0,ton
+DZ02,Dozer,P02,Komatsu D375A-6,18.5,m3
+EX05,Excavator,P03,Komatsu PC2000-8,12.0,m3
+DT06,Dump Truck,P03,CAT 777E,95.0,ton
+DT07,Dump Truck,P03,Komatsu HD785-7,91.0,ton
+DT08,Dump Truck,P03,CAT 777E,95.0,ton
+DZ03,Dozer,P03,Komatsu D375A-6,18.5,m3
+EX06,Excavator,P04,Hitachi EX2600-6,17.0,m3
+DT09,Dump Truck,P04,CAT 777E,95.0,ton
+DT10,Dump Truck,P04,Komatsu HD785-7,91.0,ton
+DZ04,Dozer,P04,Komatsu D375A-6,18.5,m3
